@@ -1,4 +1,4 @@
-#sum of number 10
+#sum of number
 
 n = 10
 count = sum(range(1, n + 1))
